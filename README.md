@@ -24,6 +24,15 @@ This project automatically tags support tickets into categories using multiple a
 - Refund Request
 
 ---
+## 🔥 Download fine-tuned model
+
+The large fine-tuned model file (`model.safetensors`) is stored separately to keep this repo lightweight.
+
+### 👉 [Download model from Google Drive](https://drive.google.com/drive/folders/1ut6btIfZpwwIORnxkzcR-cz7JkArKB-3?usp=drive_link)
+
+After downloading, place it inside:
+
+
 
 ## 🛠️ Installation
 
